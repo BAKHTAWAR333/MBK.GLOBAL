@@ -1,0 +1,10 @@
+{
+  "name": "MBK.GLOBAL — Creative Digital Agency",
+  "short_name": "MBK.GLOBAL",
+  "description": "Independent creative digital agency for websites, branding, UI/UX, AI automation and digital growth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5ed",
+  "theme_color": "#0e2b1a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
